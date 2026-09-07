@@ -1,4 +1,3 @@
-# N-body-gravitational-simulation
 # N-Body Gravitational Simulation
 
 A self-contained Jupyter/Colab notebook (`N_body_gravitational_simulation.ipynb`) that simulates gravitating point masses with `numpy` and renders the result as animated GIFs with `matplotlib.animation`. The notebook has **5 cells**, meant to be run top to bottom in a single session.
